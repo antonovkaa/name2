@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+
+}
+.container  div {
+  padding:10px;
+  margin: 50px;
+   background-color: rgba(23, 78, 6, 0.247);
+  width:20%;
+}
+
+.nat {
+  text-align: center;
+  color:rgb(38, 51, 3);
+  font-size: 60px;
+  font-weight: 900;
+  padding:50px;
+}
+
+body {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/014/663/183/original/dense-forest-fir-and-pine-natural-green-landscape-web-background-template-illustration-vector.jpg");
+  background-size: cover;
+}
